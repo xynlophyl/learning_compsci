@@ -19,6 +19,8 @@
 
   * Merge Intervals [LC 56](https://leetcode.com/problems/merge-intervals/) [RT: Sorting]
 
+  * Insert Intervals [LC 57](https://leetcode.com/problems/insert-interval/) [RT: N/A]
+
   * Sort Colors [LC 75](https://leetcode.com/problems/sort-colors/) [RT: Two Pointers, Sorting]
 
   * Rotate Array [LC 189](https://leetcode.com/problems/rotate-array/) [RT: Math, Two Pointers]
