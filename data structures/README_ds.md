@@ -1,7 +1,6 @@
 ## Data Structure (Implementation & Practice) Notes
 
 ### Arrays
-
 * Easy Problems
 
   * Two Sum [LeetCode 1](https://leetcode.com/problems/two-sum/) [Related Topics: Hash Tables]
@@ -36,7 +35,54 @@
 
   * Trapping Rain Water [LC 47](https://leetcode.com/problems/trapping-rain-water/) [RT: Dynamic Programming, Two Pointers]
 
-## Machine Learning Notes
+### Strings
+* Easy Problems
+
+  * Reverse Linked List [LC 206](https://leetcode.com/problems/reverse-linked-list/)
+
+* Medium Problems
+
+* Hard Problems
+
+### Matrices
+* Easy Problems
+
+* Medium Problems
+
+  * Set Matrix Zeroes [LC 73](https://leetcode.com/problems/set-matrix-zeroes/)
+
+* Hard Problems
+
+### Graphs
+* Easy Problems
+
+* Medium Problems
+
+* Hard Problems
+
+### Trees
+* Easy Problems
+
+* Medium Problems
+
+* Hard Problems
+
+### Linked Lists
+* Easy Problems
+
+  * Reverse Linked List [LC 206](https://leetcode.com/problems/reverse-linked-list/)
+
+* Medium Problems
+
+* Hard Problems
+
+### Stacks
+* Easy Problems
+
+* Medium Problems
+
+* Hard Problems
+
 
 
 ### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
