@@ -37,3 +37,4 @@ def longestOnes_Three(nums, k):
 			low += 1
 		count = max(count,high-low+1)
 	return count
+	

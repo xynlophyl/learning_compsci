@@ -20,4 +20,3 @@ def productExceptSelf(nums):
 		else:
 			answer.append(0)
 	return answer
-            

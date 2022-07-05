@@ -13,3 +13,4 @@ def maxArea(height):
     else:
       low += 1
   return area
+  

@@ -11,3 +11,4 @@ def merge(intervals):
 			new_intervals.append(last)
 			new_intervals.append(intervals[i])
 	return new_intervals
+	

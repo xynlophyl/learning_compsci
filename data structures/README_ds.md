@@ -11,6 +11,8 @@
 
   * Contains Duplicate [LC 217](https://leetcode.com/problems/contains-duplicate/) [RT: Hash Table, Sorting]
 
+  * Meeting Rooms [LC 252](https://leetcode.com/problems/meeting-rooms/) [RT: Sorting]
+
   * Maximum Consecutive Ones I [LC 485](https://leetcode.com/problems/max-consecutive-ones/) [RT: N/A]
 
 * Medium Problems

@@ -14,3 +14,4 @@ def containsDuplicate(nums):
       return True
     s.add(i)
   return False
+  

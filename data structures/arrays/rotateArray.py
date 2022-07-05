@@ -27,3 +27,4 @@ def rotate(nums, k):
 			nums[0], nums[1:] = nums[-1], nums[0:-1]
 	
 	return nums
+	

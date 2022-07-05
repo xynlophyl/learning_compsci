@@ -18,3 +18,4 @@ def trap(height):
     res += min(right[i],left[i])-height[i]
   
   return res
+  
