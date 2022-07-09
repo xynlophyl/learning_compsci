@@ -1,4 +1,9 @@
 def sortColors(nums):
+	'''
+	goal: sort nums in place by its value, in the order 0-1-2, in linear time
+	nums: list[int]
+	return: list[int]
+	'''
 	# single pass: O(n) time, O(1) space
 	low = 0
 	high = len(nums)-1

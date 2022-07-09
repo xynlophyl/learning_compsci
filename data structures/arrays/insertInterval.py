@@ -1,4 +1,9 @@
-def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
+def insert(intervals, newInterval):
+	'''
+	goal: insert newInterval into intervals such that there are no overlaps (there are no existing overlaps in intervals)
+	intervals: list[list[int,int]], newInterval: list[int,int]
+	return: list[list[int,int]]
+	'''
 	# optimized space: O(n) time, O(1) space
 	if not intervals:
 		return [newInterval]

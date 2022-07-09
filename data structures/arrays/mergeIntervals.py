@@ -1,4 +1,9 @@
 def merge(intervals):
+	'''
+	goal: merge each interval in intervals such that there are no overlaps in the result
+	intervals: list[list[int,int]]
+	return: list[list[int,int]]
+	'''
 	# sort then merge by comparison: O(nlogn) time, o(n) space
 	intervals.sort(key=lambda x:x[0])
 	new_intervals = [intervals[0]]

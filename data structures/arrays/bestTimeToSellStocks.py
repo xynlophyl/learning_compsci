@@ -1,4 +1,9 @@
-def maxProfit(prices):      
+def maxProfit(prices): 
+  '''
+  goal: given its prices, find the maximum profit achieveable from buying and selling a stock
+  prices: list[int]
+  return: int
+  '''     
   # save last min: O(n) time O(1) space
   last_min = prices[0]
   max_profit = 0

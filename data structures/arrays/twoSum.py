@@ -1,4 +1,9 @@
 def twoSum(nums, target):
+  '''
+  goal: find the indices of two values in nums that sum to target
+  nums: list[int], target: int
+  return: list[int,int]
+  '''
   # using hash table: O(n) time, O(n) space
   d = {}
   for i in range(len(nums)):

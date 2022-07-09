@@ -1,4 +1,9 @@
 def setZeroes(matrix):
+  '''
+  goal: in each column and row that contains a 0, set every cell in that line to 0
+  input: list[list[int]]
+  return: list[list[int]] 
+  '''
   # multiple passes, more efficient: O(mn) time, O(1) space
   first_col_flag = False
   for r in range(len(matrix)): # finding which cells are 0 -> change the first cell of each row and column to 0 

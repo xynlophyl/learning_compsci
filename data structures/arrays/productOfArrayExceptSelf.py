@@ -1,4 +1,9 @@
 def productExceptSelf(nums):
+	'''
+	goal: return a list where each index,i, is the product of nums excluding nums[i]
+	nums: list[int]
+	return: list[int] 
+	'''
     # track 0 and total product, multiple passes: O(n) time, O(n) space
 	zero_count = 0
 	product = 1

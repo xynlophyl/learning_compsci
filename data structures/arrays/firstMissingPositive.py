@@ -1,4 +1,10 @@
 def firstMissingPositive(nums):
+	'''
+	goal: find the smallest positive value not in nums
+	nums: list[int]
+	return: int
+	'''
+
 	# negative marking: O(n) time and O(1) space
 	if not nums: return 1
 	

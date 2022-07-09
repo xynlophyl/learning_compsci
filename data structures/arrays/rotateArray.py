@@ -1,4 +1,9 @@
 def rotate(nums, k):
+	'''
+	goal: shift nums by k elements to the right
+	nums: list[int], k: int
+	return: list[int]
+	'''
 	# reverse individual slices: O(n) time, O(1) space 
 	def reverse(nums,l,r):
 		while l < r:

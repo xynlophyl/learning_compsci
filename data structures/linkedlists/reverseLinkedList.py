@@ -1,4 +1,9 @@
 def reverseList(head):
+	'''
+	goal: reverse a linked list
+	head: linkedListNode
+	return: linkedListNode
+	'''
 	if not head:
 		return None
 

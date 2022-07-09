@@ -1,4 +1,9 @@
 def trap(height):
+  '''
+  goal: find the largest storage area of a terrain given height
+  height: list[int]
+  return: int
+  '''
   # multiple passes to record max heights in both directions: O(n) time, O(n) space
   right_max = height[0]
   right = []

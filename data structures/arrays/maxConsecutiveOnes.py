@@ -1,4 +1,9 @@
 def longestOnes_One(nums):
+	'''
+	goal: find the length of the longest continuous substring of 1's in nums
+	nums: list[int]
+	return: int
+	'''
     # track max: O(n) time, O(1) space
 	max_count = 0
 	count = 0
@@ -15,6 +20,11 @@ def longestOnes_Two(nums):
 	pass
  
 def longestOnes_Three(nums, k):
+	'''
+	goal: find the length of the longest continuous substring of 1's in nums, where you can change k values of the substring to 1
+	nums: list[int], k: int
+	return: int
+	'''
 	# more efficient sliding window, no inner while loop: O(n) time, O(1) space
 	low = 0
 	for high in range(len(nums)):

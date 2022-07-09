@@ -1,4 +1,9 @@
 def containsDuplicate(nums):
+  '''
+  goal: check if nums contains any duplicate values
+  nums: list[int]
+  return: bool
+  '''
   # sort, then check adjacent indices: O(nlogn) time, O(1) space
   nums.sort()
   

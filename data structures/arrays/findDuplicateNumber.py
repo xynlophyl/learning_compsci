@@ -1,6 +1,10 @@
 def findDuplicate(nums):
+  '''
+  goal: find the duplicate in the list nums
+  nums: list[int]
+  return: int
+  '''
   # floyd's cycle detection algorithm (tortoise and hare): O(n) time, O(1) space 
-
   slow = fast = nums[0]
   
   while True:
