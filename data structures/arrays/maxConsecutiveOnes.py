@@ -17,7 +17,22 @@ def longestOnes_One(nums):
 	return max_count
 
 def longestOnes_Two(nums):
-	pass
+	'''
+	goal: find the length of the longest continuous substrings of 1's in nums, given that you can change a single 0 to a 1.
+	nums: list[int]
+	return: int
+	'''
+	low = count = 0
+	flipped = False
+	for high in range(len(nums)):
+		if nums[high] == 0:
+			while flipped == True:
+				if nums[low] == 0:
+					flipped = False
+				low += 1
+			flipped = True	
+	return high-low+1
+
  
 def longestOnes_Three(nums, k):
 	'''

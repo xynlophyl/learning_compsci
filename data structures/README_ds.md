@@ -17,11 +17,15 @@
 
   * Maximum Consecutive Ones I ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]
 
+  * Binary Search ([LC 704](https://leetcode.com/problems/binary-search/)) [Binary Search]
+
 * Medium Problems
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
   * 3Sum ([LC 15](https://leetcode.com/problems/3sum/)) [Two Pointers, Sorting]
+
+  * Search in a Rotated Array ([LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)) [Binary Search]
 
   * Valid Sudoku ([LC 36](https://leetcode.com/problems/valid-sudoku/)) [Matrix, Hash Table]
 
@@ -43,6 +47,8 @@
 
   * Find the Duplicate Number ([LC 287](https://leetcode.com/problems/find-the-duplicate-number/)) [Two Pointers, Linked Lists]
 
+  * Max Consecutive Ones II ([LC 487](https://leetcode.com/problems/max-consecutive-ones-ii/)) [Sliding Window]
+
   * Contiguous Array ([LC 525](https://leetcode.com/problems/contiguous-array/)) [Hash Table, Prefix Sum]
 
   * Subarray Sum Equals K ([LC 560](https://leetcode.com/problems/subarray-sum-equals-k/)) [Hash Table, Prefix Sum]
@@ -50,6 +56,8 @@
   * Max Consecutive Ones III ([LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)) [Sliding Window]
 
 * Hard Problems
+
+  * Median of Two Sorted Arrays ([LC 4](https://leetcode.com/problems/median-of-two-sorted-arrays/)) [Binary Search]
 
   * First Missing Positive ([LC 41](https://leetcode.com/problems/first-missing-positive/)) [Hash Table]
 
@@ -76,13 +84,19 @@
 
   * Group Anagrams ([LC 49](https://leetcode.com/problems/group-anagrams/)) [Arrays, Hash Table, Sorting]
 
-  * Find All Anagrams in a String ([LC 438] (https://leetcode.com/problems/find-all-anagrams-in-a-string/)) [Hash Table, Sliding Window]
+  * Longest Repeating Character Replacement ([LC 424](https://leetcode.com/problems/longest-repeating-character-replacement/)) [Hash Table, Sliding Window]
+
+  * Find All Anagrams in a String ([LC 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)) [Hash Table, Sliding Window]
 
 
 * Hard Problems
 
+  * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
+
 ### Matrices
 * Easy Problems
+
+  * Flood Fill ([LC 733](https://leetcode.com/problems/flood-fill/)) [Matrix, Graph Search]
 
 * Medium Problems
 
@@ -90,12 +104,21 @@
 
   * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Tables]
 
+  * 01 Matrix ([LC 542](https://leetcode.com/problems/01-matrix/)) [Dynamic Programming, Graph Search]
+
+  * Rotting Oranges ([LC 994](https://leetcode.com/problems/rotting-oranges/)) [Graph Search]
+
 * Hard Problems
 
 ### Graphs
 * Easy Problems
 
+
 * Medium Problems
+
+  * Clone Graph ([LC 133](https://leetcode.com/problems/clone-graph/)) [Hash Table, Graph Search]
+
+  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search]
 
 * Hard Problems
 
@@ -122,6 +145,17 @@
 
 * Hard Problems
 
+### Others
+* Easy Problems
 
-### finished problems count: 34
+  * First Bad Version ([LC 278](https://leetcode.com/problems/first-bad-version/)) [Binary Search]
+
+* Medium Problems
+
+  * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/) [Binary Search, Hash Table, Design] 
+
+* Hard Problems
+
+
+### Finished problems count: 48
 ### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
