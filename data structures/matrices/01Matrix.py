@@ -1,4 +1,4 @@
-def updateMatrix(self, mat: List[List[int]]) -> List[List[int]]:
+def updateMatrix(mat):
   '''
   goal: find the closest distance to a 0 at each cell
   mat: list[list[int]]

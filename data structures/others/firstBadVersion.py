@@ -1,3 +1,7 @@
+def isBadVersion(n):
+  # example isBadVersion API
+  return n.isBad()
+
 def firstBadVersion(n):
   '''
   goal: given a number of product versions, find the first faulty/bad version using isBadVersion API
@@ -14,3 +18,4 @@ def firstBadVersion(n):
     return firstBadHelper(mid+1, high)
   
   return firstBadHelper(1,n)
+  
