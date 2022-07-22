@@ -1,11 +1,9 @@
 ## Data Structure (Implementation & Practice) Notes
 
-### FORMAT: NAME (SOURCE) [Related Topics]
+### Arrays (29)
+* Easy Problems (8)
 
-### Arrays
-* Easy Problems
-
-  * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Tables]
+  * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Table]
 
   * Best Time to Sell Stocks ([LC 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)) [Dynamic Programming]
 
@@ -19,7 +17,9 @@
 
   * Binary Search ([LC 704](https://leetcode.com/problems/binary-search/)) [Binary Search]
 
-* Medium Problems
+  * Min Max Game ([Lc 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
+
+* Medium Problems (17)
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
@@ -55,7 +55,7 @@
 
   * Max Consecutive Ones III ([LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)) [Sliding Window]
 
-* Hard Problems
+* Hard Problems (4)
 
   * Median of Two Sorted Arrays ([LC 4](https://leetcode.com/problems/median-of-two-sorted-arrays/)) [Binary Search]
 
@@ -63,8 +63,10 @@
 
   * Trapping Rain Water ([LC 47](https://leetcode.com/problems/trapping-rain-water/)) [Dynamic Programming, Two Pointers]
 
-### Strings
-* Easy Problems
+  * Maximum Profit in Job Scheduling ([LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)) [Dyanmic Programming, Sorting, Binary Search]
+
+### Strings (11)
+* Easy Problems (4)
 
   * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
 
@@ -74,7 +76,7 @@
 
   * Longest Palindrome ([LC 409](https://leetcode.com/problems/longest-palindrome/)) [Hash Table, Greedy]
 
-* Medium Problems
+* Medium Problems (6)
 
   * Longest Substring Without Repeating Characters ([LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)) [Hash Table, Sliding Window]
 
@@ -89,48 +91,65 @@
   * Find All Anagrams in a String ([LC 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)) [Hash Table, Sliding Window]
 
 
-* Hard Problems
+* Hard Problems (1)
 
   * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
 
-### Matrices
-* Easy Problems
+### Matrices (2)
+* Easy Problems (0)
 
-  * Flood Fill ([LC 733](https://leetcode.com/problems/flood-fill/)) [Matrix, Graph Search]
-
-* Medium Problems
+* Medium Problems (2)
 
   * Spiral Matrix ([LC 54](https://leetcode.com/problems/spiral-matrix/)) [Simulation, Math]
 
-  * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Tables]
-
-  * 01 Matrix ([LC 542](https://leetcode.com/problems/01-matrix/)) [Dynamic Programming, Graph Search]
-
-  * Rotting Oranges ([LC 994](https://leetcode.com/problems/rotting-oranges/)) [Graph Search]
+  * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Table]
 
 * Hard Problems
 
-### Graphs
-* Easy Problems
+### Graphs (11)
+* Easy Problems (1)
+
+  * Flood Fill ([LC 733](https://leetcode.com/problems/flood-fill/)) [Matrix, Graph Search, Hash Table, Stack]
 
 
-* Medium Problems
+* Medium Problems (10)
 
-  * Clone Graph ([LC 133](https://leetcode.com/problems/clone-graph/)) [Hash Table, Graph Search]
+  * Word Search ([LC 79](https://leetcode.com/problems/word-search/)) [Graph Search, Backtracking, Matrices, Hash Table]
 
-  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search]
+  * Clone Graph ([LC 133](https://leetcode.com/problems/clone-graph/)) [Graph Search, Hash Table]
+
+  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search, Hash Table]
+
+  * Number of Islands ([LC 200](https://leetcode.com/problems/number-of-islands/)) [Graph Search, Matrices, Queue, Hash Table]
+
+  * Minimum Height Trees ([LC 310](https://leetcode.com/problems/minimum-height-trees/)) [Graph Search, Matrices, Stack, Hash Table]
+
+  * Pacific Atlantic Water Flow ([LC 417](https://leetcode.com/problems/pacific-atlantic-water-flow/)) [Graph Search, Matrices, Hash Table]
+
+  * 01 Matrix ([LC 542](https://leetcode.com/problems/01-matrix/)) [Dynamic Programming, Graph Search, Matrices, Queue, Hash Table]
+
+  * Accounts Merge ([LC 721](https://leetcode.com/problems/accounts-merge/)) [Graph Search, Stack, Hash Table]
+
+  * Rotting Oranges ([LC 994](https://leetcode.com/problems/rotting-oranges/)) [Graph Search, Matrices, Queue, Hash Table]
+
+  * Shortest Path To Get Food ([LC 1730](https://leetcode.com/problems/shortest-path-to-get-food/)) [Graph Search, Matrices, Queue, Hash Table]
+
+* Hard Problems ()
+
+### Trees (2)
+* Easy Problems (1)
+
+  * Lowest Common Ancestor of a BST ([LC 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)) [Tree Search]
+
+* Medium Problems (1)
+
+  * Validate Binary Search Tree ([LC 98](https://leetcode.com/problems/validate-binary-search-tree/)) [Tree Search, BST]
+
 
 * Hard Problems
 
-### Trees
-* Easy Problems
-
-* Medium Problems
-
-* Hard Problems
-
-### Linked Lists
-* Easy Problems
+### Linked Lists (1)
+* Easy Problems (1)
 
   * Reverse Linked List ([LC 206](https://leetcode.com/problems/reverse-linked-list/)) [Recursion]
 
@@ -145,17 +164,20 @@
 
 * Hard Problems
 
-### Others
-* Easy Problems
+### Others (3)
+* Easy Problems (1)
 
   * First Bad Version ([LC 278](https://leetcode.com/problems/first-bad-version/)) [Binary Search]
 
-* Medium Problems
+* Medium Problems (2)
 
   * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/) [Binary Search, Hash Table, Design] 
+
+  * Minimum Knight Moves ([LC 1197](https://leetcode.com/problems/minimum-knight-moves/)) [Graph Search]
 
 * Hard Problems
 
 
-### Finished problems count: 48
-### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
+##### Completed Problems: 50 -> 59
+##### Format: NAME (SOURCE) [Related Topics]
+##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
