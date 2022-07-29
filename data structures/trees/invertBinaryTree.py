@@ -1,4 +1,5 @@
-from trees import BinaryTreeNode
+from trees import BinaryTreeNode as TreeNode
+
 def invertTree(root):
   '''
   goal: invert binary tree

@@ -1,4 +1,5 @@
 from trees import BinaryTreeNode as TreeNode
+
 def buildTree(preorder, inorder):
   '''
   goal: given list of preorder and inorder traversals of a tree, build the tree out and return its root

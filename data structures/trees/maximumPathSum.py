@@ -1,4 +1,5 @@
 from trees import BinaryTreeNode as TreeNode
+
 def maxPathSum(root):
   '''
   goal: find a subpath of the given tree that returns the max sum

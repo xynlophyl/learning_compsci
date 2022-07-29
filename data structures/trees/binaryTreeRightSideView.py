@@ -1,4 +1,5 @@
-from trees import BinaryTreeNode
+from trees import BinaryTreeNode as TreeNode
+
 def rightSideView(root):
   '''
   goal: return a list of the values of the right most node at each level

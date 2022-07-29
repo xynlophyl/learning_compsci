@@ -1,4 +1,4 @@
-from trees import BinaryTreeNode
+from trees import BinaryTreeNode as TreeNode
 
 memo = {}
 def diameterOfBinaryTree(root):

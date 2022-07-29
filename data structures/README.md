@@ -13,7 +13,7 @@
 
   * Meeting Rooms ([LC 252](https://leetcode.com/problems/meeting-rooms/)) [Sorting]
 
-  * Maximum Consecutive Ones I ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]
+  * Maximum Consecutive Ones I* ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]
 
   * Binary Search ([LC 704](https://leetcode.com/problems/binary-search/)) [Binary Search]
 
@@ -232,6 +232,7 @@
   *
 
 ###
+##### *Problems with multiple parts are stored in the same file
 ##### Completed Problems: 85
-##### Format: NAME (SOURCE) [Related Topics]
+##### Index Format: NAME (SOURCE) [Related Topics]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
