@@ -13,11 +13,11 @@
 
   * Meeting Rooms ([LC 252](https://leetcode.com/problems/meeting-rooms/)) [Sorting]
 
-  * Maximum Consecutive Ones I* ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]
+  * Maximum Consecutive Ones ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]*
 
   * Binary Search ([LC 704](https://leetcode.com/problems/binary-search/)) [Binary Search]
 
-  * Min Max Game ([Lc 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
+  * Min Max Game ([LC 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
 
 * Medium Problems (19)
 
@@ -51,13 +51,13 @@
 
   * Find the Duplicate Number ([LC 287](https://leetcode.com/problems/find-the-duplicate-number/)) [Two Pointers, Linked Lists]
 
-  * Max Consecutive Ones II ([LC 487](https://leetcode.com/problems/max-consecutive-ones-ii/)) [Sliding Window]
+  * Max Consecutive Ones II ([LC 487](https://leetcode.com/problems/max-consecutive-ones-ii/)) [Sliding Window]*
 
   * Contiguous Array ([LC 525](https://leetcode.com/problems/contiguous-array/)) [Hash Table, Prefix Sum]
 
   * Subarray Sum Equals K ([LC 560](https://leetcode.com/problems/subarray-sum-equals-k/)) [Hash Table, Prefix Sum]
 
-  * Max Consecutive Ones III ([LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)) [Sliding Window]
+  * Max Consecutive Ones III ([LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)) [Sliding Window]*
 
 * Hard Problems (4)
 
@@ -127,9 +127,9 @@
 
   * Number of Islands ([LC 200](https://leetcode.com/problems/number-of-islands/)) [Graph Search, Matrices, Queue, Hash Table]
 
-  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search, Hash Table]
+  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search, Hash Table]*
 
-  * Course Schedule II ([LC 210](https://leetcode.com/problems/course-schedule-ii/)) [Graph Search, Hash Table]
+  * Course Schedule II ([LC 210](https://leetcode.com/problems/course-schedule-ii/)) [Graph Search, Hash Table]*
 
   * Graph Valid Tree ([LC 261](https://leetcode.com/problems/graph-valid-tree/)) [Graph Search, Hash Table]
 
@@ -162,7 +162,7 @@
 
   * Balanced Binary Tree ([LC 110](https://leetcode.com/problems/balanced-binary-tree/)) [Tree Search, Recursion]
 
-  * Path Sum ([LC 112](https://leetcode.com/problems/path-sum/)) [Tree Search, Recursion]
+  * Path Sum ([LC 112](https://leetcode.com/problems/path-sum/)) [Tree Search, Recursion]*
 
   * Lowest Common Ancestor of a BST ([LC 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)) [Tree Search]
 
@@ -180,7 +180,7 @@
 
   * Construct Binary Tree from Inorder and Postorder Traversal ([LC 106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)) [Ordered Traversal, Recursion, Divide and Conquer]
 
-  * Path Sum II ([LC 113](https://leetcode.com/problems/path-sum-ii/)) [Tree Search, Recursion, Backtracking]
+  * Path Sum II ([LC 113](https://leetcode.com/problems/path-sum-ii/)) [Tree Search, Recursion, Backtracking]*
 
   * Binary Tree Right Side View ([LC 199](https://leetcode.com/problems/binary-tree-right-side-view/)) [Tree Search, Queue]
 
@@ -190,7 +190,7 @@
 
   * In-Order Successor in BST ([LC 285]) [Tree Search, Ordered Traversal]
 
-  * Path Sum III ([LC 437](https://leetcode.com/problems/path-sum-iii/)) [Tree Search, Prefix Sum]
+  * Path Sum III ([LC 437](https://leetcode.com/problems/path-sum-iii/)) [Tree Search, Prefix Sum]*
 
   * Maximum Width of Binary Tree ([LC 662](https://leetcode.com/problems/maximum-width-of-binary-tree/)) [Tree Search, Queue]
 
