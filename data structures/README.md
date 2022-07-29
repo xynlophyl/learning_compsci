@@ -1,6 +1,6 @@
 ## Data Structure (Implementation & Practice) Notes
 
-### Arrays (29)
+### Arrays (31 Problems, 29 Files)
 * Easy Problems (8)
 
   * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Table]
@@ -19,7 +19,7 @@
 
   * Min Max Game ([Lc 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
 
-* Medium Problems (17)
+* Medium Problems (19)
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
@@ -31,11 +31,15 @@
 
   * Combination Sum ([LC 39](https://leetcode.com/problems/combination-sum/)) [Backtracking]
 
+  * Permumations ([LC 46](https://leetcode.com/problems/permutations/)) [Recursion, Backtracking]
+
   * Merge Intervals ([LC 56](https://leetcode.com/problems/merge-intervals/)) [Sorting]
 
   * Insert Intervals ([LC 57](https://leetcode.com/problems/insert-interval/)) [N/A]
 
   * Sort Colors ([LC 75](https://leetcode.com/problems/sort-colors/)) [Two Pointers, Sorting]
+
+  * Subsets ([LC 78](https://leetcode.com/problems/subsets/)) [Recursion, Backtracking]
 
   * Longest Consecutive Sequence ([LC 128](https://leetcode.com/problems/longest-consecutive-sequence/)) [Hash Table, Sorting]
 
@@ -65,14 +69,16 @@
 
   * Maximum Profit in Job Scheduling ([LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)) [Dyanmic Programming, Sorting, Binary Search]
 
-### Strings (11)
-* Easy Problems (4)
+### Strings (12)
+* Easy Problems (5)
 
   * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
 
   * Valid Palindrome ([LC 125](https://leetcode.com/problems/valid-palindrome/)) [Two Pointers]
 
   * Valid Anagram([LC 242](https://leetcode.com/problems/valid-anagram/)) [Hash Table, Sorting]
+
+  * Ransom Note ([LC 383](https://leetcode.com/problems/ransom-note/)) [Hash Table]
 
   * Longest Palindrome ([LC 409](https://leetcode.com/problems/longest-palindrome/)) [Hash Table, Greedy]
 
@@ -95,6 +101,7 @@
 
   * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
 
+
 ### Matrices (2)
 * Easy Problems (0)
 
@@ -106,27 +113,35 @@
 
 * Hard Problems
 
-### Graphs (11)
+### Graphs (16, 15)
 * Easy Problems (1)
 
   * Flood Fill ([LC 733](https://leetcode.com/problems/flood-fill/)) [Matrix, Graph Search, Hash Table, Stack]
 
 
-* Medium Problems (10)
+* Medium Problems (14)
 
   * Word Search ([LC 79](https://leetcode.com/problems/word-search/)) [Graph Search, Backtracking, Matrices, Hash Table]
 
   * Clone Graph ([LC 133](https://leetcode.com/problems/clone-graph/)) [Graph Search, Hash Table]
 
-  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search, Hash Table]
-
   * Number of Islands ([LC 200](https://leetcode.com/problems/number-of-islands/)) [Graph Search, Matrices, Queue, Hash Table]
 
+  * Course Schedule ([LC 207](https://leetcode.com/problems/course-schedule/)) [Graph Search, Hash Table]
+
+  * Course Schedule II ([LC 210](https://leetcode.com/problems/course-schedule-ii/)) [Graph Search, Hash Table]
+
+  * Graph Valid Tree ([LC 261](https://leetcode.com/problems/graph-valid-tree/)) [Graph Search, Hash Table]
+
   * Minimum Height Trees ([LC 310](https://leetcode.com/problems/minimum-height-trees/)) [Graph Search, Matrices, Stack, Hash Table]
+
+  * Number of Connected Components in an Undirected Graph ([LC 323](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)) [Union Find, Graph Search, Hash Table]
 
   * Pacific Atlantic Water Flow ([LC 417](https://leetcode.com/problems/pacific-atlantic-water-flow/)) [Graph Search, Matrices, Hash Table]
 
   * 01 Matrix ([LC 542](https://leetcode.com/problems/01-matrix/)) [Dynamic Programming, Graph Search, Matrices, Queue, Hash Table]
+
+  * Number of Provinces ([LC 547](https://leetcode.com/problems/number-of-provinces/)) [Union Find]
 
   * Accounts Merge ([LC 721](https://leetcode.com/problems/accounts-merge/)) [Graph Search, Stack, Hash Table]
 
@@ -134,19 +149,56 @@
 
   * Shortest Path To Get Food ([LC 1730](https://leetcode.com/problems/shortest-path-to-get-food/)) [Graph Search, Matrices, Queue, Hash Table]
 
-* Hard Problems ()
+* Hard Problems (1)
 
-### Trees (2)
-* Easy Problems (1)
+  * Word Ladder ([LC 127](https://leetcode.com/problems/word-ladder/)) [Graph Search, Queue, Hash Table]
+
+### Trees (20, 18)
+* Easy Problems (7)
+
+  * Same Tree ([LC 100](https://leetcode.com/problems/same-tree/)) [Tree Search, Recursion]
+
+  * Maximum Depth of Binary Tree ([LC 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)) [Tree Search, Recursion]
+
+  * Balanced Binary Tree ([LC 110](https://leetcode.com/problems/balanced-binary-tree/)) [Tree Search, Recursion]
+
+  * Path Sum ([LC 112](https://leetcode.com/problems/path-sum/)) [Tree Search, Recursion]
 
   * Lowest Common Ancestor of a BST ([LC 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)) [Tree Search]
 
-* Medium Problems (1)
+  * Invert Binary Tree ([LC 226](https://leetcode.com/problems/invert-binary-tree/)) [Tree Search, Recursion]
+
+  * Diameter of Binary Tree ([LC 543](https://leetcode.com/problems/diameter-of-binary-tree/)) [Tree Search, Recursion, Memoization]
+
+* Medium Problems (11)
 
   * Validate Binary Search Tree ([LC 98](https://leetcode.com/problems/validate-binary-search-tree/)) [Tree Search, BST]
 
+  * Binary Tree Level Order Traversal ([LC 102](https://leetcode.com/problems/binary-tree-level-order-traversal/)) [Tree Search, Ordered Traversal, Queue]
 
-* Hard Problems
+  * Construct Binary Tree from Preorder and Inorder Traversal([LC 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)) [Ordered Traversal, Recursion, Divide and Conquer]
+
+  * Construct Binary Tree from Inorder and Postorder Traversal ([LC 106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)) [Ordered Traversal, Recursion, Divide and Conquer]
+
+  * Path Sum II ([LC 113](https://leetcode.com/problems/path-sum-ii/)) [Tree Search, Recursion, Backtracking]
+
+  * Binary Tree Right Side View ([LC 199](https://leetcode.com/problems/binary-tree-right-side-view/)) [Tree Search, Queue]
+
+  * K-th Smallest Element in a BST ([LC 230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)) [Tree Search, Ordered Traversal, Stack]
+
+  * Lowest Common Ancestor of Binary Tree ([LC 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)) [Tree Search, Recursion]
+
+  * In-Order Successor in BST ([LC 285]) [Tree Search, Ordered Traversal]
+
+  * Path Sum III ([LC 437](https://leetcode.com/problems/path-sum-iii/)) [Tree Search, Prefix Sum]
+
+  * Maximum Width of Binary Tree ([LC 662](https://leetcode.com/problems/maximum-width-of-binary-tree/)) [Tree Search, Queue]
+
+* Hard Problems (2)
+
+  * Binary Tree Maximum Path Sum ([LC 124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)) [Tree Search, Recursion]
+
+  * Serialize and Deserialze Binary Tree ([LC 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) [Tree Search, Ordered Traversal, Design, Queue, Recursion]
 
 ### Linked Lists (1)
 * Easy Problems (1)
@@ -157,7 +209,7 @@
 
 * Hard Problems
 
-### Stacks
+### Stacks ()
 * Easy Problems
 
 * Medium Problems
@@ -176,8 +228,10 @@
   * Minimum Knight Moves ([LC 1197](https://leetcode.com/problems/minimum-knight-moves/)) [Graph Search]
 
 * Hard Problems
+  
+  *
 
-
-##### Completed Problems: 50 -> 59
+###
+##### Completed Problems: 85
 ##### Format: NAME (SOURCE) [Related Topics]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.

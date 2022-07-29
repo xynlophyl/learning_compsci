@@ -1,3 +1,5 @@
+from trees import BinaryTreeNode
+
 def isValidBST(root):
   '''
   goal: returns whether given tree is a binary search tree (left descendants < curr node < right descendants)

@@ -1,11 +1,8 @@
 '''
 Class Implementation
 '''
-from re import L
-
-
-class binaryTree():
-    def __init__(self, val, left=None, right=None):
+class BinaryTreeNode():
+    def __init__(self, val=0, left=None, right=None):
         self.val = val
         self.left = left
         self.right = right

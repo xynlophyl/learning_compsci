@@ -1,4 +1,5 @@
-def longestOnes_One(nums):
+# Part I
+def findMaxConsecutiveOnes_One(nums):
 	'''
 	goal: find the length of the longest continuous substring of 1's in nums
 	nums: list[int]
@@ -16,7 +17,8 @@ def longestOnes_One(nums):
 		max_count = max(count,max_count)
 	return max_count
 
-def longestOnes_Two(nums):
+# Part II
+def findMaxConsecutiveOnes_Two(nums):
 	'''
 	goal: find the length of the longest continuous substrings of 1's in nums, given that you can change a single 0 to a 1.
 	nums: list[int]
@@ -33,8 +35,8 @@ def longestOnes_Two(nums):
 			flipped = True	
 	return high-low+1
 
- 
-def longestOnes_Three(nums, k):
+# Part III 
+def longestOnes(nums, k):
 	'''
 	goal: find the length of the longest continuous substring of 1's in nums, where you can change k values of the substring to 1
 	nums: list[int], k: int
