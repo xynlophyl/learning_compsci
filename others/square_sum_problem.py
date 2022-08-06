@@ -41,4 +41,3 @@ for i in range(100):
     t = time.time()
     a = square_sum(i+1)
     print(i+1, a[0] if a else [], time.time()-t)
-    
