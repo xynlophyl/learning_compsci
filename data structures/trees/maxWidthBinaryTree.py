@@ -25,3 +25,4 @@ def widthOfBinaryTree(root):
     max_width = max(max_width, h-l+1)
   
   return max_width if max_width != -float('inf') else 0
+  

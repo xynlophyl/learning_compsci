@@ -1,6 +1,6 @@
 ## Data Structure (Implementation & Practice) Notes
 
-### Arrays (31 Problems, 29 Files)
+### Arrays (33 Problems, 31 Files)
 * Easy Problems (8)
 
   * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Table]
@@ -19,11 +19,13 @@
 
   * Min Max Game ([LC 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
 
-* Medium Problems (19)
+* Medium Problems (21)
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
   * 3Sum ([LC 15](https://leetcode.com/problems/3sum/)) [Two Pointers, Sorting]
+
+  * Next Permutation ([LC 31](https://leetcode.com/problems/next-permutation/)) [Two Pointers]
 
   * Search in a Rotated Array ([LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/)) [Binary Search]
 
@@ -57,6 +59,8 @@
 
   * Subarray Sum Equals K ([LC 560](https://leetcode.com/problems/subarray-sum-equals-k/)) [Hash Table, Prefix Sum]
 
+  * Word Subsets ([LC 916](https://leetcode.com/problems/word-subsets/)) [Hash Table]
+
   * Max Consecutive Ones III ([LC 1004](https://leetcode.com/problems/max-consecutive-ones-iii/)) [Sliding Window]*
 
 * Hard Problems (4)
@@ -69,7 +73,7 @@
 
   * Maximum Profit in Job Scheduling ([LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)) [Dyanmic Programming, Sorting, Binary Search]
 
-### Strings (12)
+### Strings (14)
 * Easy Problems (5)
 
   * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
@@ -82,13 +86,17 @@
 
   * Longest Palindrome ([LC 409](https://leetcode.com/problems/longest-palindrome/)) [Hash Table, Greedy]
 
-* Medium Problems (6)
+* Medium Problems (8)
 
   * Longest Substring Without Repeating Characters ([LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)) [Hash Table, Sliding Window]
 
   * Longest Palindromic Substring ([LC 5](https://leetcode.com/problems/longest-palindromic-substring/)) [Dynamic Programming]
 
   * atoi String to Integer ([LC 8](https://leetcode.com/problems/string-to-integer-atoi/)) [N/A]
+
+  * Letter Combinations of a Phone Number ([LC 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)) [Recursion, Backtracking, Hash Table]
+
+  * Generate Parentheses ([LC 22](https://leetcode.com/problems/generate-parentheses/)) [Recursion, Backtracking]  
 
   * Group Anagrams ([LC 49](https://leetcode.com/problems/group-anagrams/)) [Arrays, Hash Table, Sorting]
 
@@ -200,19 +208,48 @@
 
   * Serialize and Deserialze Binary Tree ([LC 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) [Tree Search, Ordered Traversal, Design, Queue, Recursion]
 
-### Linked Lists (1)
-* Easy Problems (1)
+### Linked Lists (10)
+* Easy Problems (4)
+
+  * Merge Two Sorted Linked Lists ([LC 21](https://leetcode.com/problems/merge-two-sorted-lists/)) [Two Pointers, Recursion]
+
+  * Linked List Cycle ([LC 141](https://leetcode.com/problems/linked-list-cycle/)) [Two Pointers, Hash Table]
 
   * Reverse Linked List ([LC 206](https://leetcode.com/problems/reverse-linked-list/)) [Recursion]
 
-* Medium Problems
+  * Middle of Linked List ([LC 876](https://leetcode.com/problems/middle-of-the-linked-list/)) [Two Pointers]
+
+* Medium Problems (6)
+
+  * Add Two Numbers ([LC 2](https://leetcode.com/problems/add-two-numbers/)) [Two Pointers, Math]
+
+  * Remove Nth Node From End of List ([LC 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)) [Two Pointers]
+
+  * Swap Nodes in Pairs ([LC 24](https://leetcode.com/problems/swap-nodes-in-pairs/)) [Recursion]
+
+  * LRU Cache ([LC 146](https://leetcode.com/problems/lru-cache/)) [Design, Hash Table]
+
+  * Sort List ([LC 148](https://leetcode.com/problems/sort-list/)) [Two Pointers, Sorting, Divide and Conquer]
+
+  * Odd Even Linked List ([LC 328](https://leetcode.com/problems/odd-even-linked-list/)) [Two Pointers]
 
 * Hard Problems
 
-### Stacks ()
-* Easy Problems
+### Stacks (5)
+* Easy Problems (3)
 
-* Medium Problems
+  * Valid Parentheses ([LC 20](https://leetcode.com/problems/valid-parentheses/)) [Stack, Hash Table]
+
+  * Implement Queue Using Stacks ([LC 232](https://leetcode.com/problems/implement-queue-using-stacks/)) [Stack, Queue, Design]
+
+  * Backspace String Compare ([LC 844](https://leetcode.com/problems/backspace-string-compare/)) [String, Two Pointers]
+
+* Medium Problems (2)
+
+  * Evaluate Reverse Polish Notation ([LC 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)) [Math]
+
+  * Min Stack ([LC 155](https://leetcode.com/problems/min-stack/)) [Design]
+
 
 * Hard Problems
 
@@ -233,6 +270,6 @@
 
 ###
 ##### *Problems with multiple parts are stored in the same file
-##### Completed Problems: 85
-##### Index Format: NAME (SOURCE) [Related Topics]
+##### Completed Problems: 103
+##### Index Format: NAME (LINK) [RELATED TOPICS]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
