@@ -1,4 +1,4 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
 
 def removeNthFromEnd(head, n):
   '''

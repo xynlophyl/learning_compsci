@@ -1,4 +1,5 @@
-from trees import BinaryTreeNode as TreeNode
+from ..implementations.trees import BinaryTreeNode as TreeNode
+
 def levelOrder(root):
   '''
   goal: return a list of values in the given tree, root, where each level is separated into it's own list

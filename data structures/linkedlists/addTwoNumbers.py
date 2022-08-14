@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def addTwoNumbers(l1, l2):
   '''
   goal: given two numbers (represented from back to front in the form a linked list) return the sum

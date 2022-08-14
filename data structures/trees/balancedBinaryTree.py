@@ -1,4 +1,4 @@
-from trees import BinaryTreeNode
+from ..implementations.trees import BinaryTreeNode as TreeNode
 
 def isBalanced(root):
   '''

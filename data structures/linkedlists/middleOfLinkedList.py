@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def middleNode(head):
   '''
   goal: find the (rightmost) middle value of the linked list

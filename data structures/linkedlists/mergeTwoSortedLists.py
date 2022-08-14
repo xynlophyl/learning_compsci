@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def mergeTwoLists(list1, list2):
   '''
   goal: merge two sorted linked lists

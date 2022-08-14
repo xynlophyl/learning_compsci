@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def sortList(head):
   '''
   goal: sort the linked list

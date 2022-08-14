@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def reverseList(head):
 	'''
 	goal: reverse the given linked list return the new head

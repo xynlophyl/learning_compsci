@@ -1,4 +1,4 @@
-from trees import BinaryTreeNode as TreeNode
+from ..implementations.trees import BinaryTreeNode as TreeNode
 import collections
 
 class Codec:

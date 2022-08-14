@@ -1,4 +1,4 @@
-from trees import BinaryTreeNode as TreeNode
+from ..implementations.trees import BinaryTreeNode as TreeNode
 
 # part I
 def hasPathSum(root, targetSum):

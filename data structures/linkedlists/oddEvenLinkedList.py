@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def oddEvenList(head):
   '''
   goal: return the linked list with all odd indexes before the even indexes (in order)

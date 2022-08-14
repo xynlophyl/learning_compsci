@@ -1,4 +1,5 @@
-from linked_lists import ListNode
+from ..implementations.linked_lists import ListNode
+
 def swapPairs(head):
   '''
   goal: return the linked list but with every pair of nodes swapped
