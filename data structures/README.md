@@ -73,54 +73,6 @@
 
   * Maximum Profit in Job Scheduling ([LC 1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)) [Dyanmic Programming, Sorting, Binary Search]
 
-### Strings (14)
-* Easy Problems (5)
-
-  * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
-
-  * Valid Palindrome ([LC 125](https://leetcode.com/problems/valid-palindrome/)) [Two Pointers]
-
-  * Valid Anagram([LC 242](https://leetcode.com/problems/valid-anagram/)) [Hash Table, Sorting]
-
-  * Ransom Note ([LC 383](https://leetcode.com/problems/ransom-note/)) [Hash Table]
-
-  * Longest Palindrome ([LC 409](https://leetcode.com/problems/longest-palindrome/)) [Hash Table, Greedy]
-
-* Medium Problems (8)
-
-  * Longest Substring Without Repeating Characters ([LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)) [Hash Table, Sliding Window]
-
-  * Longest Palindromic Substring ([LC 5](https://leetcode.com/problems/longest-palindromic-substring/)) [Dynamic Programming]
-
-  * atoi String to Integer ([LC 8](https://leetcode.com/problems/string-to-integer-atoi/)) [N/A]
-
-  * Letter Combinations of a Phone Number ([LC 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)) [Recursion, Backtracking, Hash Table]
-
-  * Generate Parentheses ([LC 22](https://leetcode.com/problems/generate-parentheses/)) [Recursion, Backtracking]  
-
-  * Group Anagrams ([LC 49](https://leetcode.com/problems/group-anagrams/)) [Arrays, Hash Table, Sorting]
-
-  * Longest Repeating Character Replacement ([LC 424](https://leetcode.com/problems/longest-repeating-character-replacement/)) [Hash Table, Sliding Window]
-
-  * Find All Anagrams in a String ([LC 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)) [Hash Table, Sliding Window]
-
-
-* Hard Problems (1)
-
-  * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
-
-
-### Matrices (2)
-* Easy Problems (0)
-
-* Medium Problems (2)
-
-  * Spiral Matrix ([LC 54](https://leetcode.com/problems/spiral-matrix/)) [Simulation, Math]
-
-  * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Table]
-
-* Hard Problems
-
 ### Graphs (16, 15)
 * Easy Problems (1)
 
@@ -160,6 +112,122 @@
 * Hard Problems (1)
 
   * Word Ladder ([LC 127](https://leetcode.com/problems/word-ladder/)) [Graph Search, Queue, Hash Table]
+
+### Heaps (3)
+  * Easy Problems ()
+
+  * Medium Problems (1)
+    * K Closest Points to Origin ([LC 973](https://leetcode.com/problems/k-closest-points-to-origin/)) [Geometry, Quickselect, Quick Sort, Divide and Conquer]
+
+  * Hard Problems (2)
+    * Merge k Sorted Lists ([LC 23](https://leetcode.com/problems/merge-k-sorted-lists/)) [Linked Lists, Sorting]
+
+    * Find Median from Data Stream ([LC 295](https://leetcode.com/problems/find-median-from-data-stream/)) [Design, Sorting]
+
+### Linked Lists (10)
+* Easy Problems (4)
+
+  * Merge Two Sorted Linked Lists ([LC 21](https://leetcode.com/problems/merge-two-sorted-lists/)) [Two Pointers, Recursion]
+
+  * Linked List Cycle ([LC 141](https://leetcode.com/problems/linked-list-cycle/)) [Two Pointers, Hash Table]
+
+  * Reverse Linked List ([LC 206](https://leetcode.com/problems/reverse-linked-list/)) [Recursion]
+
+  * Middle of Linked List ([LC 876](https://leetcode.com/problems/middle-of-the-linked-list/)) [Two Pointers]
+
+* Medium Problems (6)
+
+  * Add Two Numbers ([LC 2](https://leetcode.com/problems/add-two-numbers/)) [Two Pointers, Math]
+
+  * Remove Nth Node From End of List ([LC 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)) [Two Pointers]
+
+  * Swap Nodes in Pairs ([LC 24](https://leetcode.com/problems/swap-nodes-in-pairs/)) [Recursion]
+
+  * LRU Cache ([LC 146](https://leetcode.com/problems/lru-cache/)) [Design, Hash Table]
+
+  * Sort List ([LC 148](https://leetcode.com/problems/sort-list/)) [Two Pointers, Sorting, Divide and Conquer]
+
+  * Odd Even Linked List ([LC 328](https://leetcode.com/problems/odd-even-linked-list/)) [Two Pointers]
+
+* Hard Problems
+
+### Matrices (2)
+* Easy Problems (0)
+
+* Medium Problems (2)
+
+  * Spiral Matrix ([LC 54](https://leetcode.com/problems/spiral-matrix/)) [Simulation, Math]
+
+  * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Table]
+
+* Hard Problems
+
+### Stacks (12)
+* Easy Problems (3)
+
+  * Valid Parentheses ([LC 20](https://leetcode.com/problems/valid-parentheses/)) [Stack, Hash Table]
+
+  * Implement Queue Using Stacks ([LC 232](https://leetcode.com/problems/implement-queue-using-stacks/)) [Stack, Queue, Design]
+
+  * Backspace String Compare ([LC 844](https://leetcode.com/problems/backspace-string-compare/)) [String, Two Pointers]
+
+* Medium Problems (5)
+
+  * Evaluate Reverse Polish Notation ([LC 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)) [Math]
+
+  * Min Stack ([LC 155](https://leetcode.com/problems/min-stack/)) [Design]
+
+  * Decode String ([LC 394](https://leetcode.com/problems/decode-string/)) [Recursion]
+  
+  * Asteroid Collision ([LC 735](https://leetcode.com/problems/asteroid-collision/)) [N/A]
+
+  * Daily Temperatures ([LC 739](https://leetcode.com/problems/daily-temperatures/)) [N/A]
+
+* Hard Problems (4)
+
+  * Trapping Rain Water ([LC 42](https://leetcode.com/problems/trapping-rain-water/)) [Multiple Pass]
+
+  * Largest Rectangle in Histogram ([LC 84](https://leetcode.com/problems/largest-rectangle-in-histogram/)) [N/A]
+
+  * Basic Calculator ([LC 224](https://leetcode.com/problems/basic-calculator/)) [Math, Recursion]
+
+  * Max Frequency Stack ([LC 895](https://leetcode.com/problems/maximum-frequency-stack/)) [Design, Hash Table]
+
+### Strings (14)
+* Easy Problems (5)
+
+  * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
+
+  * Valid Palindrome ([LC 125](https://leetcode.com/problems/valid-palindrome/)) [Two Pointers]
+
+  * Valid Anagram([LC 242](https://leetcode.com/problems/valid-anagram/)) [Hash Table, Sorting]
+
+  * Ransom Note ([LC 383](https://leetcode.com/problems/ransom-note/)) [Hash Table]
+
+  * Longest Palindrome ([LC 409](https://leetcode.com/problems/longest-palindrome/)) [Hash Table, Greedy]
+
+* Medium Problems (8)
+
+  * Longest Substring Without Repeating Characters ([LC 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)) [Hash Table, Sliding Window]
+
+  * Longest Palindromic Substring ([LC 5](https://leetcode.com/problems/longest-palindromic-substring/)) [Dynamic Programming]
+
+  * atoi String to Integer ([LC 8](https://leetcode.com/problems/string-to-integer-atoi/)) [N/A]
+
+  * Letter Combinations of a Phone Number ([LC 17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)) [Recursion, Backtracking, Hash Table]
+
+  * Generate Parentheses ([LC 22](https://leetcode.com/problems/generate-parentheses/)) [Recursion, Backtracking]  
+
+  * Group Anagrams ([LC 49](https://leetcode.com/problems/group-anagrams/)) [Arrays, Hash Table, Sorting]
+
+  * Longest Repeating Character Replacement ([LC 424](https://leetcode.com/problems/longest-repeating-character-replacement/)) [Hash Table, Sliding Window]
+
+  * Find All Anagrams in a String ([LC 438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)) [Hash Table, Sliding Window]
+
+
+* Hard Problems (1)
+
+  * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
 
 ### Trees (20, 18)
 * Easy Problems (7)
@@ -208,51 +276,6 @@
 
   * Serialize and Deserialze Binary Tree ([LC 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) [Tree Search, Ordered Traversal, Design, Queue, Recursion]
 
-### Linked Lists (10)
-* Easy Problems (4)
-
-  * Merge Two Sorted Linked Lists ([LC 21](https://leetcode.com/problems/merge-two-sorted-lists/)) [Two Pointers, Recursion]
-
-  * Linked List Cycle ([LC 141](https://leetcode.com/problems/linked-list-cycle/)) [Two Pointers, Hash Table]
-
-  * Reverse Linked List ([LC 206](https://leetcode.com/problems/reverse-linked-list/)) [Recursion]
-
-  * Middle of Linked List ([LC 876](https://leetcode.com/problems/middle-of-the-linked-list/)) [Two Pointers]
-
-* Medium Problems (6)
-
-  * Add Two Numbers ([LC 2](https://leetcode.com/problems/add-two-numbers/)) [Two Pointers, Math]
-
-  * Remove Nth Node From End of List ([LC 19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)) [Two Pointers]
-
-  * Swap Nodes in Pairs ([LC 24](https://leetcode.com/problems/swap-nodes-in-pairs/)) [Recursion]
-
-  * LRU Cache ([LC 146](https://leetcode.com/problems/lru-cache/)) [Design, Hash Table]
-
-  * Sort List ([LC 148](https://leetcode.com/problems/sort-list/)) [Two Pointers, Sorting, Divide and Conquer]
-
-  * Odd Even Linked List ([LC 328](https://leetcode.com/problems/odd-even-linked-list/)) [Two Pointers]
-
-* Hard Problems
-
-### Stacks (5)
-* Easy Problems (3)
-
-  * Valid Parentheses ([LC 20](https://leetcode.com/problems/valid-parentheses/)) [Stack, Hash Table]
-
-  * Implement Queue Using Stacks ([LC 232](https://leetcode.com/problems/implement-queue-using-stacks/)) [Stack, Queue, Design]
-
-  * Backspace String Compare ([LC 844](https://leetcode.com/problems/backspace-string-compare/)) [String, Two Pointers]
-
-* Medium Problems (2)
-
-  * Evaluate Reverse Polish Notation ([LC 150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)) [Math]
-
-  * Min Stack ([LC 155](https://leetcode.com/problems/min-stack/)) [Design]
-
-
-* Hard Problems
-
 ### Others (3)
 * Easy Problems (1)
 
@@ -266,10 +289,9 @@
 
 * Hard Problems
   
-  *
 
 ###
 ##### *Problems with multiple parts are stored in the same file
-##### Completed Problems: 103
+##### Completed Problems: 113
 ##### Index Format: NAME (LINK) [RELATED TOPICS]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
