@@ -1,7 +1,7 @@
 ## Data Structure (Implementation & Practice) Notes
 
-### Arrays (33 Problems, 31 Files)
-* Easy Problems (8)
+### Arrays (42 Problems, 40 Files)
+* Easy Problems (11)
 
   * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Table]
 
@@ -9,17 +9,23 @@
 
   * Majority Element ([LC 169](https://leetcode.com/problems/majority-element/)) [Hash Table, Divide and Conquer, Counting]
 
+  * House Robber ([LC 198](https://leetcode.com/problems/house-robber/)) [Dynamic Programming]
+
   * Contains Duplicate ([LC 217](https://leetcode.com/problems/contains-duplicate/)) [Hash Table, Sorting]
 
   * Meeting Rooms ([LC 252](https://leetcode.com/problems/meeting-rooms/)) [Sorting]
 
+  * Coin Change ([LC 322](https://leetcode.com/problems/coin-change/)) [Dynamic Programming]
+
   * Maximum Consecutive Ones ([LC 485](https://leetcode.com/problems/max-consecutive-ones/)) [N/A]*
+
+  * Find K Closest Elements ([LC 658](https://leetcode.com/problems/find-k-closest-elements/)) [Binary Search, Heaps]
 
   * Binary Search ([LC 704](https://leetcode.com/problems/binary-search/)) [Binary Search]
 
   * Min Max Game ([LC 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
 
-* Medium Problems (21)
+* Medium Problems (27)
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
@@ -35,6 +41,10 @@
 
   * Permumations ([LC 46](https://leetcode.com/problems/permutations/)) [Recursion, Backtracking]
 
+  * Maximum Subarray ([LC 53](https://leetcode.com/problems/maximum-subarray/)) [Dynamic Programming, Divide and Conquer]
+
+  * Jump Game ([LC 55](https://leetcode.com/problems/jump-game/)) [Dynamic Programming]
+
   * Merge Intervals ([LC 56](https://leetcode.com/problems/merge-intervals/)) [Sorting]
 
   * Insert Intervals ([LC 57](https://leetcode.com/problems/insert-interval/)) [N/A]
@@ -47,11 +57,19 @@
 
   * Gas Stations ([LC 134](https://leetcode.com/problems/gas-station/)) [Greedy]
 
+  * Word Break ([LC 139](https://leetcode.com/problems/word-break/)) [Dynamic Programming]
+
+  * Maximum Product Subarray ([LC 152](https://leetcode.com/problems/maximum-product-subarray/)) [Dynamic Programming]
+
   * Rotate Array ([LC 189](https://leetcode.com/problems/rotate-array/)) [Math, Two Pointers]
 
   * Product of Array Except Self ([LC 238](https://leetcode.com/problems/product-of-array-except-self/)) [Prefix Sum]
 
   * Find the Duplicate Number ([LC 287](https://leetcode.com/problems/find-the-duplicate-number/)) [Two Pointers, Linked Lists]
+
+  * Longest Increasing Subsequence ([LC 300](https://leetcode.com/problems/longest-increasing-subsequence/)) [Dynamic Programming]
+
+  * Partition Equal Subset Sum ([LC 416](https://leetcode.com/problems/partition-equal-subset-sum/)) [Dynamic Programming]
 
   * Max Consecutive Ones II ([LC 487](https://leetcode.com/problems/max-consecutive-ones-ii/)) [Sliding Window]*
 
@@ -113,10 +131,15 @@
 
   * Word Ladder ([LC 127](https://leetcode.com/problems/word-ladder/)) [Graph Search, Queue, Hash Table]
 
-### Heaps (3)
+### Heaps (5)
   * Easy Problems ()
 
-  * Medium Problems (1)
+  * Medium Problems (3)
+
+    * Task Scheduler [LC 621](https://leetcode.com/problems/task-scheduler/) [Queue, Hash Table]
+
+    * Top K Frequent Words ([LC 692](https://leetcode.com/problems/top-k-frequent-words/)) [Hash Table, Sorting]
+
     * K Closest Points to Origin ([LC 973](https://leetcode.com/problems/k-closest-points-to-origin/)) [Geometry, Quickselect, Quick Sort, Divide and Conquer]
 
   * Hard Problems (2)
@@ -151,12 +174,14 @@
 
 * Hard Problems
 
-### Matrices (2)
+### Matrices (3)
 * Easy Problems (0)
 
-* Medium Problems (2)
+* Medium Problems (3)
 
   * Spiral Matrix ([LC 54](https://leetcode.com/problems/spiral-matrix/)) [Simulation, Math]
+
+  * Number of Unique Paths ([LC 62](https://leetcode.com/problems/unique-paths/)) [Dynamic Programming]
 
   * Set Matrix Zeroes ([LC 73](https://leetcode.com/problems/set-matrix-zeroes/)) [Hash Table]
 
@@ -193,10 +218,14 @@
 
   * Max Frequency Stack ([LC 895](https://leetcode.com/problems/maximum-frequency-stack/)) [Design, Hash Table]
 
-### Strings (14)
-* Easy Problems (5)
+### Strings (16)
+* Easy Problems (7)
+
+  * Roman To Integer ([LC 13](https://leetcode.com/problems/roman-to-integer/)) [Hash Table, Math]
 
   * Longest Common Prefix ([LC 14](https://leetcode.com/problems/longest-common-prefix/)) [Trie]
+
+  * Add Binary ([LC 63](https://leetcode.com/problems/add-binary/)) [Binary, Math]
 
   * Valid Palindrome ([LC 125](https://leetcode.com/problems/valid-palindrome/)) [Two Pointers]
 
@@ -276,12 +305,22 @@
 
   * Serialize and Deserialze Binary Tree ([LC 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) [Tree Search, Ordered Traversal, Design, Queue, Recursion]
 
-### Others (3)
-* Easy Problems (1)
+### Others (8)
+* Easy Problems (4)
+
+  * Climb Stairs ([LC 70](https://leetcode.com/problems/climbing-stairs/)) [Dynamic Programming]
+
+  * Number of 1 Bits ([LC 191](https://leetcode.com/problems/number-of-1-bits/)) [Binary, Bit Manipulation]
 
   * First Bad Version ([LC 278](https://leetcode.com/problems/first-bad-version/)) [Binary Search]
 
-* Medium Problems (2)
+  * Couting Bits ([LC 338](https://leetcode.com/problems/counting-bits/)) [Binary, Bit Manipulation, Dynamic Programming]
+
+* Medium Problems (4)
+
+  * Implement Trie ([LC 208](https://leetcode.com/problems/implement-trie-prefix-tree/)) [Design, Trie, Hash Table]
+
+  * Design Add and Search Words Data Structure ([LC 211](https://leetcode.com/problems/design-add-and-search-words-data-structure/)) [Design, Trie, Tree Search]
 
   * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/) [Binary Search, Hash Table, Design] 
 
@@ -292,6 +331,6 @@
 
 ###
 ##### *Problems with multiple parts are stored in the same file
-##### Completed Problems: 113
+##### Completed Problems: 124 -> 132
 ##### Index Format: NAME (LINK) [RELATED TOPICS]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
