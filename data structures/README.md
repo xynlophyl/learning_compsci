@@ -1,6 +1,6 @@
 ## Data Structure (Implementation & Practice) Notes
 
-### Arrays (42 Problems, 40 Files)
+### Arrays (43 Problems, 41 Files)
 * Easy Problems (11)
 
   * Two Sum ([LC 1](https://leetcode.com/problems/two-sum/)) [Hash Table]
@@ -25,7 +25,7 @@
 
   * Min Max Game ([LC 2293](https://leetcode.com/problems/min-max-game/)) [Simulation]
 
-* Medium Problems (27)
+* Medium Problems (28)
 
   * Container with Most Water ([LC 11](https://leetcode.com/problems/container-with-most-water/)) [Two Pointers, Greedy]
 
@@ -76,6 +76,8 @@
   * Contiguous Array ([LC 525](https://leetcode.com/problems/contiguous-array/)) [Hash Table, Prefix Sum]
 
   * Subarray Sum Equals K ([LC 560](https://leetcode.com/problems/subarray-sum-equals-k/)) [Hash Table, Prefix Sum]
+
+  * Maximize Distance to Closest Person ([LC 849](https://leetcode.com/problems/maximize-distance-to-closest-person/)) [N/A]
 
   * Word Subsets ([LC 916](https://leetcode.com/problems/word-subsets/)) [Hash Table]
 
@@ -258,8 +260,10 @@
 
   * Minimum Window Substring ([LC 76](https://leetcode.com/problems/minimum-window-substring/)) [Hash Table, Sliding Window]
 
-### Trees (20, 18)
-* Easy Problems (7)
+### Trees (25, 23)
+* Easy Problems (12)
+
+  * Binary Tree In-Order Traversal ([LC 94](https://leetcode.com/problems/binary-tree-inorder-traversal/)) [Tree Search, Stack]
 
   * Same Tree ([LC 100](https://leetcode.com/problems/same-tree/)) [Tree Search, Recursion]
 
@@ -269,11 +273,19 @@
 
   * Path Sum ([LC 112](https://leetcode.com/problems/path-sum/)) [Tree Search, Recursion]*
 
+  * Binary Tree Pre-Order Traversal ([LC 144](https://leetcode.com/problems/binary-tree-preorder-traversal/)) [Tree Search, Stack]
+
+  * Binary Tree Post-Order Traversal ([LC 145](https://leetcode.com/problems/binary-tree-postorder-traversal/)) [Tree Search, Stack]
+
   * Lowest Common Ancestor of a BST ([LC 235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)) [Tree Search]
 
   * Invert Binary Tree ([LC 226](https://leetcode.com/problems/invert-binary-tree/)) [Tree Search, Recursion]
 
   * Diameter of Binary Tree ([LC 543](https://leetcode.com/problems/diameter-of-binary-tree/)) [Tree Search, Recursion, Memoization]
+
+  * Increasing Order Search Tree ([LC 897](https://leetcode.com/problems/increasing-order-search-tree/)) [Tree Search, Queues]
+
+  * Range Sum of BST ([LC 938](https://leetcode.com/problems/range-sum-of-bst/)) [Tree Search]
 
 * Medium Problems (11)
 
@@ -305,8 +317,8 @@
 
   * Serialize and Deserialze Binary Tree ([LC 297](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)) [Tree Search, Ordered Traversal, Design, Queue, Recursion]
 
-### Others (8)
-* Easy Problems (4)
+### Others (11)
+* Easy Problems (5)
 
   * Climb Stairs ([LC 70](https://leetcode.com/problems/climbing-stairs/)) [Dynamic Programming]
 
@@ -316,11 +328,17 @@
 
   * Couting Bits ([LC 338](https://leetcode.com/problems/counting-bits/)) [Binary, Bit Manipulation, Dynamic Programming]
 
-* Medium Problems (4)
+  * Min Cost Climbing Stairs ([LC 746](https://leetcode.com/problems/min-cost-climbing-stairs/)) [Dynamic Programming]
+
+* Medium Problems (6)
+
+  * Triangle ([LC 120](https://leetcode.com/problems/triangle/)) [Dynamic Programming, Recursion]
 
   * Implement Trie ([LC 208](https://leetcode.com/problems/implement-trie-prefix-tree/)) [Design, Trie, Hash Table]
 
   * Design Add and Search Words Data Structure ([LC 211](https://leetcode.com/problems/design-add-and-search-words-data-structure/)) [Design, Trie, Tree Search]
+
+  * Champagne Tower ([LC 799](https://leetcode.com/problems/champagne-tower/)) [Dynamic Programming]
 
   * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/) [Binary Search, Hash Table, Design] 
 
@@ -331,6 +349,6 @@
 
 ###
 ##### *Problems with multiple parts are stored in the same file
-##### Completed Problems: 124 -> 132
+##### Completed Problems: 141
 ##### Index Format: NAME (LINK) [RELATED TOPICS]
 ##### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
