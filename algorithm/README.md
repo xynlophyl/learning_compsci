@@ -305,7 +305,7 @@
 
   * Lowest Common Ancestor of Binary Tree ([LC 236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)) [Tree Search, Recursion]
 
-  * In-Order Successor in BST ([LC 285]) [Tree Search, Ordered Traversal]
+  * In-Order Successor in BST (LC 285) [Tree Search, Ordered Traversal]
 
   * Path Sum III ([LC 437](https://leetcode.com/problems/path-sum-iii/)) [Tree Search, Prefix Sum]*
 
@@ -340,7 +340,7 @@
 
   * Champagne Tower ([LC 799](https://leetcode.com/problems/champagne-tower/)) [Dynamic Programming]
 
-  * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/) [Binary Search, Hash Table, Design] 
+  * Time Based Key-Value Store ([LC 981](https://leetcode.com/problems/time-based-key-value-store/)) [Binary Search, Hash Table, Design] 
 
   * Minimum Knight Moves ([LC 1197](https://leetcode.com/problems/minimum-knight-moves/)) [Graph Search]
 
