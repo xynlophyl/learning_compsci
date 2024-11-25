@@ -1,0 +1,3 @@
+[submodule "deep/minitorch"]
+	path = deep/minitorch
+	url = https://github.com/xynlophyl/minitorch.git
