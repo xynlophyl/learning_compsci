@@ -1,4 +1,5 @@
-### Project Ideas
+# learning:others
+## Project Ideas
 #### SoccerTracking
 - [SoccerNet Game State Reconstruction](https://arxiv.org/pdf/2404.11335)
 - Extension Ideas

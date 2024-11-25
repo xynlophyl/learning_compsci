@@ -1,4 +1,4 @@
-## Data Structure (Implementation & Practice) Notes
+# learning:algorithm
 
 ### Arrays (43 Problems, 41 Files)
 * Easy Problems (11)

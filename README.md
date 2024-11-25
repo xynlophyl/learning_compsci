@@ -1,9 +1,18 @@
-## Data Structures
+# learning: collation of all my research projects
+
+### algorithm
   
-  ### Implemenation of basic data structures , as well as using them in practice on LeetCode questions
+Implemenation of basic data structures , as well as applications in LeetCode questions
 
 
-## Artificial Intelligence
-  ### Notes on machine learning concepts from educational and personal research studies
+### deep:
+- Implementations of deep learning systems (e.g. minitorch)
+- Implementations of deep learning research papers
 
-### This repository helps me keep track of concepts I learn in my Computer Science career, as well as any preparation I have for technical interviews.
+### machine:
+- Notes on machine learning concepts
+- Implementations of basic statistical ML models
+
+### reinforcement:
+- Implementation of RL research papers
+- Application and benchmarking in various environments (e.g. OpenAI gym, Unity ML-Agents)
