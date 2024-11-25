@@ -1,4 +1,4 @@
-# learning: collation of all my research projects
+# learning collection
 
 ### algorithm:
   
