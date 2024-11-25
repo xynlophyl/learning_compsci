@@ -1,4 +1,4 @@
-# learning collection
+# learning
 
 ### algorithm:
   
