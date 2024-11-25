@@ -1,3 +1,6 @@
 [submodule "deep/minitorch"]
 	path = deep/minitorch
 	url = https://github.com/xynlophyl/minitorch.git
+[submodule "reinforcement/soccertwos"]
+	path = reinforcement/soccertwos
+	url = https://github.com/xynlophyl/soccertwos.git
