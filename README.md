@@ -1,6 +1,6 @@
 # learning: collation of all my research projects
 
-### algorithm
+### algorithm:
   
 Implemenation of basic data structures , as well as applications in LeetCode questions
 
