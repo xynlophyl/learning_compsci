@@ -1,6 +1,9 @@
 # learning:others
 workspace for other concepts and ideas that I pick up on.
 
+## Directory
+- [adventofcode](https://github.com/xynlophyl/adventofcode): solutions for aoc
+
 ## Project Ideas
 ### [SoccerTracking](https://github.com/xynlophyl/soccertracking)
 - [SoccerNet Game State Reconstruction](https://arxiv.org/pdf/2404.11335): reconstructing the game state onto a 2D plane using real match footage. 
