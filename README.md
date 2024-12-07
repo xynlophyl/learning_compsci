@@ -1,4 +1,4 @@
-# learning: collection of research projects and applications
+# learning: workspace for my various learning projects.
 
 ### algorithm:
 - Implemenation of basic data structures, as well as applications in LeetCode questions
