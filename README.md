@@ -1,8 +1,7 @@
 # learning: collection of research projects and applications
 
 ### algorithm:
-- Implemenation of basic data structures , as well as applications in LeetCode questions
-
+- Implemenation of basic data structures, as well as applications in LeetCode questions
 
 ### deep:
 - Implementations of deep learning systems (e.g. minitorch)
