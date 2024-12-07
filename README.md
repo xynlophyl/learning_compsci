@@ -1,4 +1,5 @@
-# learning: workspace for my various learning projects and resources that i would like to explore further
+# learning 
+workspace for my various learning projects and resources that i would like to explore further
 
 ### [algorithm](./algorithm/):
 - Implemenation of basic data structures, as well as applications in LeetCode questions
