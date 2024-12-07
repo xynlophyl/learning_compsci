@@ -2,11 +2,10 @@
 workspace for deep learning models 
 
 ## Directory
-### minitorch [WORK IN PROGRESS]
-my implementation/solution for the diy teaching library minitorch
-
 ### fundamentals_DL [WORK IN PROGRESS]
 implementations of fundamental deep learning models, such as: MLP (NumPy), CNN, RNN, LSTM, Transformers, ADAM optimizer etc. Benchmarks for various tasks (e.g. MNIST classification) will also be added to evaluate and compare model performance.
+### [minitorch](https://github.com/xynlophyl/minitorch) [WORK IN PROGRESS]
+my implementation/solution for the diy teaching library minitorch
 
 ## Resources
 ### Textbooks

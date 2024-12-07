@@ -2,8 +2,8 @@
 workspace for other concepts and ideas that I pick up on.
 
 ## Project Ideas
-### SoccerTracking
-- [SoccerNet Game State Reconstruction](https://arxiv.org/pdf/2404.11335)
+### [SoccerTracking](https://github.com/xynlophyl/soccertracking)
+- [SoccerNet Game State Reconstruction](https://arxiv.org/pdf/2404.11335): reconstructing the game state onto a 2D plane using real match footage. 
 - Extension Ideas
     - Position smoothing 
     - Background: object locations can be volatile since we are performing keypoint detection and perspective transformations for each frame to account for camera movements (this applies for all objects: ball, players) 

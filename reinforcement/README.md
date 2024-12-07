@@ -5,7 +5,7 @@ workspace for reinforcement learning algorithms and environments
 ### gym [WORK IN PROGRESS]
 Included within this project will be implementations of fundamental RL algorithms and strategies, such as: multi-armed bandits, policy/value iteration, DQN etc. Benchmarks will also be included to evaluate training + test performance.
 
-### soccertwos
+### [soccertwos](https://github.com/xynlophyl/soccertwos)
 Examining interactions of cooperation/competition in the Unity ML-Agents SoccerTwos environment.
 
 ## Resources
